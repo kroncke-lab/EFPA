@@ -3,7 +3,8 @@ earliestTpeak=.05
 earliestQpoint=.1
 timeBeforePlotting=2000
 #workingDirectory='/Users/andrewglazer/Desktop/RodenLab/Ideas/P50/Cardioexcyte/Shiny/testEnv'
-workingDirectory='/var/www/html/cardioexcyte/outfiles/'
+#workingDirectory='/var/www/html/cardioexcyte/outfiles/'
+workingDirectory='C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA/'
 
 ######### SERVER ##########
 shinyServer(function(input,output,session){
@@ -224,6 +225,7 @@ shinyServer(function(input,output,session){
     }
     print(paste('unit:',isolate(rv$unit)))
     # Updating input labels with correct units
+
     updateNumericInput(session,'cutoff',label=paste('Cutoff',isolate(rv$unit)))
     updateNumericInput(session,'zoomYleft',label=paste('Y Min',isolate(rv$unit)))
     updateNumericInput(session,'zoomYright',label=paste('Y Max',isolate(rv$unit)))

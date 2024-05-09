@@ -8,8 +8,8 @@ getFolders=function(workingDirectory){
   return(usernames)
 }
 
-#workingDirectory='/Users/andrewglazer/Desktop/RodenLab/Ideas/P50/Cardioexcyte/Shiny/testEnv'
-workingDirectory='/var/www/html/cardioexcyte/outfiles/'
+workingDirectory='C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA/'
+#workingDirectory='/var/www/html/cardioexcyte/outfiles/'
 usernames=getFolders(workingDirectory)
 
 shinyUI(

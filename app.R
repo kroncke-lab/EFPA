@@ -474,7 +474,8 @@ validateInput=function(inputText,inputType,maxVal=NA){
 earliestTpeak=.05
 earliestQpoint=.1
 timeBeforePlotting=2000
-workingDirectory='/Users/andrewglazer/Desktop/RodenLab/Ideas/P50/Cardioexcyte/Shiny/testEnv'
+#workingDirectory='/Users/andrewglazer/Desktop/RodenLab/Ideas/P50/Cardioexcyte/Shiny/testEnv'
+workingDirectory='C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA/'
 #workingDirectory='/var/www/html/cardioexcyte/outfiles/'
 usernames=getFolders(workingDirectory)
 
@@ -906,11 +907,13 @@ server=function(input,output,session){
     }
     print(paste('unit:',isolate(rv$unit)))
     # Updating input labels with correct units
+    
     updateNumericInput(session,'cutoff',label=paste('Cutoff',isolate(rv$unit)))
     updateNumericInput(session,'zoomYleft',label=paste('Y Min',isolate(rv$unit)))
     updateNumericInput(session,'zoomYright',label=paste('Y Max',isolate(rv$unit)))
     updateNumericInput(session,'zoomYleft2',label=paste('Y Min',isolate(rv$unit)))
     updateNumericInput(session,'zoomYright2',label=paste('Y Max',isolate(rv$unit)))
+
     if(rv$invertBeats){
       rv$invertFactor=-1
     } else{
