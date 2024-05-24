@@ -1,0 +1,1308 @@
+STARTING SHINY PROGRAM!
+txtFile was changed
+-----
+Updated rv$txtFileType to
+1
+Entering reload dataset section
+Triggered update txt file options
+######
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA/
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA/
+NEW txt6:
+.git
+ce_raw_proc
+EFP-analysis
+tests
+-----
+PrevDataset has changed
+copyExcludes has changed
+projectName was changed
+Invert beats has changed
+Pre time has changed
+Post time has changed
+Scale factor has changed
+Entering autosave timer
+loadSavedBeat changed
+Triggered update txt file options3
+Updating file settings message
+Rendering BetaMessage
+Rendering txtConfirm
+printing "Settings"
+Updating startNotes
+Triggering load file?
+projectName was changed
+Updating startNotes
+txtFile was changed
+ce_raw_proc
+Updated rv$txtFileType to
+3
+Rendering txtConfirm
+Triggered update txt file options
+######
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA/
+NEW txt6:
+-----
+[BACK]
+asdf
+ce_data
+filelist.txt
+LabChartInput-Devyn.txt
+LabChartInput.txt
+ce_raw_proc
+txtFile was changed
+-----
+Updated rv$txtFileType to
+1
+Rendering txtConfirm
+txtFile was changed
+LabChartInput-Devyn.txt
+Updated rv$txtFileType to
+2
+Rendering txtConfirm
+Triggering load file?
+Updating startNotes
+Rendering txtConfirm
+Entering autosave timer
+Starting to calculate values
+Starting screen 2
+unit: (uV)
+Not using previous dataset
+Done loading previous dataset
+Initializing new values
+New col num: 2
+Didn't have previously saved beats
+Triggering autoscale1
+Triggering calcMinsAll
+About to update RR
+Autoscale1 was clicked or run
+calcMinsAll changed
+setting calcMins trigger
+About to update RR
+Entering calculating mins section
+Setting filter triggerD
+Entering filterMins section
+Filtering mins
+Calculating mean beat:
+Triggering calcLandmarks
+About to update RR
+RR:
+0.1901424
+Calculating landmarks for well 2
+About to update RR
+RR:
+0.1901424
+Autoscale2 was clicked or run
+About to update RR
+RR:
+0.1901424
+Plotting plot0
+Entering plot1 section
+Plotting plot1
+Entering plot2 section
+Plotting plot2
+Entering plot1 section
+Plotting plot1
+Adjust baseline checkbox has changed
+noiseCutoff changed
+NumBeats button has changed
+Show all beats button has changed
+Cutoff has changed
+zoomYleft changed to -1478
+zoomYright changed to 571
+Entering plot1 section
+Plotting plot1
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+Txt not in folder, copying txt file
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+Plot was clicked
+About to update RR
+RR:
+0.1936317
+Entering plot1 section
+Plotting plot1
+Entering plot2 section
+Plotting plot2
+Calculating landmarks for well 2
+ABOUT TO CALC LANDMARKS1
+10001 8
+0.2
+0.05
+0.1
+CALCULATED LANDMARKS1
+Entering filterMins section
+Filtering mins
+Calculating mean beat:
+Triggering calcLandmarks
+About to update RR
+RR:
+0.1936317
+Entering plot2 section
+Plotting plot2
+Autoscale2 was clicked or run
+Entering plot1 section
+Plotting plot1
+Calculating landmarks for well 2
+About to update RR
+RR:
+0.1936317
+Autoscale2 was clicked or run
+About to update RR
+RR:
+0.1936317
+NumBeats button has changed
+Entering plot2 section
+Plotting plot2
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+Plot was clicked
+Entering plot1 section
+Plotting plot1
+About to update RR
+RR:
+0.1913093
+Entering plot2 section
+Plotting plot2
+Calculating landmarks for well 2
+ABOUT TO CALC LANDMARKS1
+10001 8
+0.2
+0.05
+0.1
+CALCULATED LANDMARKS1
+Entering filterMins section
+Filtering mins
+Calculating mean beat:
+Triggering calcLandmarks
+About to update RR
+RR:
+0.1913093
+Entering plot2 section
+Plotting plot2
+Autoscale2 was clicked or run
+Entering plot1 section
+Plotting plot1
+Calculating landmarks for well 2
+About to update RR
+RR:
+0.1913093
+Autoscale2 was clicked or run
+About to update RR
+RR:
+0.1913093
+NumBeats button has changed
+Entering plot2 section
+Plotting plot2
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+Cutoff has changed
+Cutoff has changed
+Triggering min calculation
+Entering plot1 section
+Plotting plot1
+Entering calculating mins section
+Setting filter triggerD
+Entering plot1 section
+Plotting plot1
+Entering filterMins section
+Filtering mins
+Calculating mean beat:
+Triggering calcLandmarks
+Entering plot2 section
+Plotting plot2
+Entering plot1 section
+Plotting plot1
+About to update RR
+RR:
+0.9999679
+Calculating landmarks for well 2
+ABOUT TO CALC LANDMARKS1
+10001 8
+0.2
+0.05
+0.1
+CALCULATED LANDMARKS1
+Entering plot2 section
+Plotting plot2
+About to update RR
+RR:
+0.9999679
+Autoscale2 was clicked or run
+Entering plot2 section
+Plotting plot2
+About to update RR
+RR:
+0.9999679
+NumBeats button has changed
+Entering plot2 section
+Plotting plot2
+zoomYleft2 changed to -1569
+zoomYright2 changed to 678
+Entering plot2 section
+Plotting plot2
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+Invert mean beat button was clicked
+Calculating mean beat:
+Triggering calcLandmarks
+Entering plot2 section
+Plotting plot2
+Calculating landmarks for well 2
+ABOUT TO CALC LANDMARKS1
+10001 8
+0.2
+0.05
+0.1
+CALCULATED LANDMARKS1
+About to update RR
+RR:
+0.9999679
+Entering plot2 section
+Plotting plot2
+Autoscale2 was clicked or run
+About to update RR
+RR:
+0.9999679
+zoomYleft2 changed to -581
+zoomYright2 changed to 1830
+Entering plot2 section
+Plotting plot2
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+zoomYright2 changed to 500
+Entering plot2 section
+Plotting plot2
+Entering plot2 section
+Plotting plot2
+Entering plot2 section
+Plotting plot2
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+Include button has changed
+Plotting plot0
+Plot2 was clicked
+Plot2 was clicked
+Plot was clicked
+Black to white
+Entering plot1 section
+Plotting plot1
+Entering plot2 section
+Plotting plot2
+About to update RR
+RR:
+1.037004
+Calculating landmarks for well 2
+ABOUT TO CALC LANDMARKS1
+10001 8
+0.2
+0.05
+0.1
+CALCULATED LANDMARKS1
+Entering plot2 section
+Plotting plot2
+About to update RR
+RR:
+1.037004
+Autoscale2 was clicked or run
+Entering plot2 section
+Plotting plot2
+About to update RR
+RR:
+1.037004
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+NumBeats button has changed
+Entering plot2 section
+Plotting plot2
+zoomYleft2 changed to -577
+zoomYright2 changed to 1829
+Entering plot2 section
+Plotting plot2
+Plot was clicked
+White to gray
+Entering plot1 section
+Plotting plot1
+About to update RR
+RR:
+0.9999679
+Entering plot2 section
+Plotting plot2
+Calculating landmarks for well 2
+ABOUT TO CALC LANDMARKS1
+10001 8
+0.2
+0.05
+0.1
+CALCULATED LANDMARKS1
+About to update RR
+RR:
+0.9999679
+Entering plot2 section
+Plotting plot2
+Autoscale2 was clicked or run
+About to update RR
+RR:
+0.9999679
+NumBeats button has changed
+Plot was clicked
+Gray to black
+Entering plot1 section
+Plotting plot1
+Entering plot2 section
+Plotting plot2
+Calculating landmarks for well 2
+ABOUT TO CALC LANDMARKS1
+10001 8
+0.2
+0.05
+0.1
+CALCULATED LANDMARKS1
+About to update RR
+RR:
+0.9999679
+Entering plot2 section
+Plotting plot2
+Autoscale2 was clicked or run
+About to update RR
+RR:
+0.9999679
+zoomYleft2 changed to -581
+zoomYright2 changed to 1830
+Entering plot2 section
+Plotting plot2
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+Modify landmark was clicked
+Plot2 was clicked
+Recalculating points
+About to update RR
+RR:
+0.9999679
+Entering plot2 section
+Plotting plot2
+About to update RR
+RR:
+0.9999679
+Plot2 was clicked
+Recalculating points
+Entering plot2 section
+Plotting plot2
+About to update RR
+RR:
+0.9999679
+Entering plot2 section
+Plotting plot2
+About to update RR
+RR:
+0.9999679
+Plot2 was clicked
+Recalculating points
+Entering plot2 section
+Plotting plot2
+About to update RR
+RR:
+0.9999679
+Entering plot2 section
+Plotting plot2
+About to update RR
+RR:
+0.9999679
+Show landmark button has changed
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+Plot2 was clicked
+Recalculating points
+About to update RR
+RR:
+0.9999679
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+0.9999679
+zoomYright2 changed to 1829
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+zoomYright2 changed to 1828
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+zoomYright2 changed to 1827
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+zoomYright2 changed to 1826
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+zoomYright2 changed to 1825
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+zoomYright2 changed to 1824
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+zoomYright2 changed to 1823
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+zoomYright2 changed to 1822
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+zoomYright2 changed to 1821
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+zoomYright2 changed to 100
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+zoomYright2 changed to 1000
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+Plot2 was clicked
+Recalculating points
+About to update RR
+RR:
+0.9999679
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+0.9999679
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+Plot was clicked
+Black to white
+Entering plot1 section
+Plotting plot1
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.037004
+Calculating landmarks for well 2
+ABOUT TO CALC LANDMARKS1
+10001 8
+0.2
+0.05
+0.1
+CALCULATED LANDMARKS1
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.037004
+Autoscale2 was clicked or run
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.037004
+NumBeats button has changed
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+zoomYleft2 changed to -584
+zoomYright2 changed to 1833
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Plot was clicked
+Gray to black
+Entering plot1 section
+Plotting plot1
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Calculating landmarks for well 2
+ABOUT TO CALC LANDMARKS1
+10001 8
+0.2
+0.05
+0.1
+CALCULATED LANDMARKS1
+About to update RR
+RR:
+1.037004
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Autoscale2 was clicked or run
+About to update RR
+RR:
+1.037004
+zoomYleft2 changed to -580
+zoomYright2 changed to 1832
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+zoomYright2 changed to 1000
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Plot was clicked
+Gray to black
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Entering plot1 section
+Plotting plot1
+Calculating landmarks for well 2
+ABOUT TO CALC LANDMARKS1
+10001 8
+0.2
+0.05
+0.1
+CALCULATED LANDMARKS1
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.037004
+Autoscale2 was clicked or run
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.037004
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+zoomYleft2 changed to -579
+zoomYright2 changed to 1833
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Plot was clicked
+Black to white
+Entering plot1 section
+Plotting plot1
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.076888
+Calculating landmarks for well 2
+ABOUT TO CALC LANDMARKS1
+10001 8
+0.2
+0.05
+0.1
+CALCULATED LANDMARKS1
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.076888
+Autoscale2 was clicked or run
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.076888
+NumBeats button has changed
+zoomYleft2 changed to -582
+zoomYright2 changed to 1835
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Plot was clicked
+Black to white
+Entering plot1 section
+Plotting plot1
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.119964
+Calculating landmarks for well 2
+ABOUT TO CALC LANDMARKS1
+10001 8
+0.2
+0.05
+0.1
+CALCULATED LANDMARKS1
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.119964
+Autoscale2 was clicked or run
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.119964
+NumBeats button has changed
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+zoomYleft2 changed to -584
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Plot was clicked
+Black to white
+Entering plot1 section
+Plotting plot1
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.166629
+Calculating landmarks for well 2
+ABOUT TO CALC LANDMARKS1
+10001 8
+0.2
+0.05
+0.1
+CALCULATED LANDMARKS1
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.166629
+Autoscale2 was clicked or run
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.166629
+NumBeats button has changed
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+zoomYleft2 changed to -579
+zoomYright2 changed to 1837
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+Plot2 was clicked
+Recalculating points
+About to update RR
+RR:
+1.166629
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.166629
+Plot2 was clicked
+Recalculating points
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.166629
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.166629
+Plot2 was clicked
+Recalculating points
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.166629
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.166629
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+Modify landmark was clicked
+Plot2 was clicked
+Recalculating points
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.166629
+Autoscale2 was clicked or run
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.166629
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Autoscale2 was clicked or run
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+Modify landmark was clicked
+Plot2 was clicked
+Recalculating points
+About to update RR
+RR:
+1.166629
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.166629
+zoomYright2 changed to 1000
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+Plot was clicked
+White to gray
+Entering plot1 section
+Plotting plot1
+About to update RR
+RR:
+1.119964
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Calculating landmarks for well 2
+ABOUT TO CALC LANDMARKS1
+10001 8
+0.2
+0.05
+0.1
+CALCULATED LANDMARKS1
+About to update RR
+RR:
+1.119964
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Autoscale2 was clicked or run
+About to update RR
+RR:
+1.119964
+NumBeats button has changed
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+zoomYright2 changed to 1837
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Plot was clicked
+White to gray
+Entering plot1 section
+Plotting plot1
+About to update RR
+RR:
+1.076888
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Calculating landmarks for well 2
+ABOUT TO CALC LANDMARKS1
+10001 8
+0.2
+0.05
+0.1
+CALCULATED LANDMARKS1
+About to update RR
+RR:
+1.076888
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Autoscale2 was clicked or run
+About to update RR
+RR:
+1.076888
+NumBeats button has changed
+Plot was clicked
+White to gray
+Entering plot1 section
+Plotting plot1
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.037004
+Calculating landmarks for well 2
+ABOUT TO CALC LANDMARKS1
+10001 8
+0.2
+0.05
+0.1
+CALCULATED LANDMARKS1
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.037004
+Autoscale2 was clicked or run
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+1.037004
+NumBeats button has changed
+Plot was clicked
+White to gray
+Entering plot1 section
+Plotting plot1
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+0.9999679
+Calculating landmarks for well 2
+ABOUT TO CALC LANDMARKS1
+10001 8
+0.2
+0.05
+0.1
+CALCULATED LANDMARKS1
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+0.9999679
+Autoscale2 was clicked or run
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+0.9999679
+NumBeats button has changed
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+Plot was clicked
+Black to white
+Entering plot1 section
+Plotting plot1
+Entering plot2 section
+Plotting plot2
+About to update RR
+RR:
+0.9999667
+Calculating landmarks for well 2
+About to update RR
+RR:
+0.9999667
+Autoscale2 was clicked or run
+About to update RR
+RR:
+0.9999667
+NumBeats button has changed
+Entering plot2 section
+Plotting plot2
+Plot was clicked
+White to gray
+Entering plot1 section
+Plotting plot1
+About to update RR
+RR:
+0.9999679
+Calculating landmarks for well 2
+About to update RR
+RR:
+0.9999679
+Autoscale2 was clicked or run
+About to update RR
+RR:
+0.9999679
+NumBeats button has changed
+Plot was clicked
+Gray to black
+Entering plot1 section
+Plotting plot1
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Calculating landmarks for well 2
+ABOUT TO CALC LANDMARKS1
+10001 8
+0.2
+0.05
+0.1
+CALCULATED LANDMARKS1
+About to update RR
+RR:
+0.9999679
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Autoscale2 was clicked or run
+About to update RR
+RR:
+0.9999679
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Plot was clicked
+Black to white
+Entering plot1 section
+Plotting plot1
+Entering plot2 section
+Plotting plot2
+About to update RR
+RR:
+0.9999667
+Calculating landmarks for well 2
+About to update RR
+RR:
+0.9999667
+Autoscale2 was clicked or run
+About to update RR
+RR:
+0.9999667
+NumBeats button has changed
+Entering plot2 section
+Plotting plot2
+Plot was clicked
+White to gray
+Entering plot1 section
+Plotting plot1
+About to update RR
+RR:
+0.9999679
+Calculating landmarks for well 2
+About to update RR
+RR:
+0.9999679
+Autoscale2 was clicked or run
+About to update RR
+RR:
+0.9999679
+NumBeats button has changed
+Plot was clicked
+Gray to black
+Entering plot1 section
+Plotting plot1
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Calculating landmarks for well 2
+ABOUT TO CALC LANDMARKS1
+10001 8
+0.2
+0.05
+0.1
+CALCULATED LANDMARKS1
+About to update RR
+RR:
+0.9999679
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Autoscale2 was clicked or run
+About to update RR
+RR:
+0.9999679
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+zoomYleft2 changed to -594
+zoomYright2 changed to 1788
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+Modify landmark was clicked
+Plot2 was clicked
+Recalculating points
+About to update RR
+RR:
+0.9999679
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+0.9999679
+zoomYright2 changed to 1000
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Modify landmark was clicked
+Plot2 was clicked
+Recalculating points
+About to update RR
+RR:
+0.9999679
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+About to update RR
+RR:
+0.9999679
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+Next undecided button was clicked
+############## New col num:
+2
+Well number has changed
+Initializing new values
+New col num: 3
+Didn't have previously saved beats
+Triggering autoscale1
+Triggering calcMinsAll
+Entering plot1 section
+Not plotting plot1 yet
+Entering plot2 section
+Not plotting plot2 yet
+About to update RR
+Plotting plot0
+Autoscale1 was clicked or run
+calcMinsAll changed
+setting calcMins trigger
+Setting triggerPlot1 to random
+Setting triggerPlot2 to random
+About to update RR
+Entering calculating mins section
+Setting filter triggerD
+Entering plot1 section
+Plotting plot1
+Entering plot2 section
+Plotting plot2
+Entering filterMins section
+Filtering mins
+Calculating mean beat:
+Triggering calcLandmarks
+Entering plot2 section
+Plotting plot2
+Entering plot1 section
+Plotting plot1
+About to update RR
+RR:
+0.394237
+Calculating landmarks for well 3
+About to update RR
+RR:
+0.394237
+Autoscale2 was clicked or run
+About to update RR
+RR:
+0.394237
+Modify landmark was clicked
+Include button has changed
+NumBeats button has changed
+Show landmark button has changed
+Cutoff has changed
+zoomYleft changed to -1913
+zoomYright changed to 96
+Entering plot2 section
+Plotting plot2
+Entering plot1 section
+Plotting plot1
+Cutoff has changed
+Cutoff has changed
+Triggering min calculation
+Entering plot1 section
+Plotting plot1
+Entering calculating mins section
+Setting filter triggerD
+Entering plot1 section
+Plotting plot1
+Entering filterMins section
+Filtering mins
+Calculating mean beat:
+Triggering calcLandmarks
+Entering plot2 section
+Plotting plot2
+Entering plot1 section
+Plotting plot1
+About to update RR
+RR:
+0.9999643
+Calculating landmarks for well 3
+ABOUT TO CALC LANDMARKS1
+10001 8
+0.2
+0.05
+0.1
+CALCULATED LANDMARKS1
+Entering plot2 section
+Plotting plot2
+About to update RR
+RR:
+0.9999643
+Autoscale2 was clicked or run
+Entering plot2 section
+Plotting plot2
+About to update RR
+RR:
+0.9999643
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
+NumBeats button has changed
+Entering plot2 section
+Plotting plot2
+zoomYleft2 changed to -2028
+zoomYright2 changed to 92
+Entering plot2 section
+Plotting plot2
+Invert mean beat button was clicked
+Calculating mean beat:
+Triggering calcLandmarks
+Entering plot2 section
+Plotting plot2
+Calculating landmarks for well 3
+ABOUT TO CALC LANDMARKS1
+10001 8
+0.2
+0.05
+0.1
+CALCULATED LANDMARKS1
+About to update RR
+RR:
+0.9999643
+Entering plot2 section
+Plotting plot2
+Autoscale2 was clicked or run
+About to update RR
+RR:
+0.9999643
+zoomYleft2 changed to -79
+zoomYright2 changed to 2366
+Entering plot2 section
+Plotting plot2
+Show landmark button has changed
+Entering plot2 section
+Plotting plot2
+Plotting landmarks
+Entering autosave timer
+Save to file button was clicked
+Creating new folders if they don't already exist:
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll
+C:/Users/KRONCKE/OneDrive - VUMC/Kroncke_Lab/EFPA//ce_raw_proc/EFPA_ll/files
