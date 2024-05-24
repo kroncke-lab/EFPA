@@ -1,0 +1,2 @@
+origPreTime	origPostTime	scaleFactor	baselineMethod	invertBeats	projectName	txtFile
+0.2	0.8	6	Q point	FALSE	asdf	test.txt
