@@ -1,15 +1,20 @@
 # EFPA
 
 Download both R (4.4.1) and RStudio (2024.04.2+764)
+
 Install the R libraries shiny, shinyjs, signal, zoo [In R Studio, type install.packages('shiny')]
+
 Download the file server.R, app.R, and ui.R (available at https://github.com/kroncke-lab/EFPA)
 
 
 Following are the only parameters that need to be changed on server.R file : workingDirectory, logfile, and Sys.setenv(R_ZIPCMD) 
 
 This applies to lines 5, 7, and 8. The working directory is where all of your computer's files are saved. For instance, on a MacBook, this may be: workingDirectory='/Users/nidhipatel/Desktop/'
+
 The log file line indicates the location of the log file. An example on a MacBook would be : logFile='/Users/nidhipatel/Desktop/efp.log' 
+
 Line 8 would be where the location of the zip binary is. For example, it would be similar as follows: Sys.setenv(R_ZIPCMD="/Users/nidhipatel/Desktop/zip")
+
 (If you drag a file onto the terminal on a MacBook, it should provide the precise code line that corresponds to the file's location on your laptop, as this is the exact storage location of the file.)
 
 
@@ -22,9 +27,7 @@ Run the code. If it doesn’t activate the EFP Analyzer close out of RStudio and
 
 Usage Instructions
 
-Step 1: 
-
-Software: CardioExcyte Control program from Nan]i[on
+Step 1: Software: CardioExcyte Control program from Nan]i[on
 Export desired files and should be Comma Separated Values File
 
 Output cardioexcyte data from CE software
@@ -45,18 +48,10 @@ The “Browse for folder” box will appear
  
 Leave all new folders in the “CardioExcyte” folder until after you use the translation tool.  Then move all your folders into a subfolder within the “CardioExcyte” folder.
 
-
-Step 2: 
-
-Place the bash “build_inputfile_cl.sh” script into the same file with the folder that contain the cardio files to be processed.
-In the bash script replace first_dir=”YourFileName/” so the script can locate the folder to be processed. 
-Navigate in bash to the folder that has your bash script and Cardio96 data folder.
-To run in bash, plug in prompt ./build_inputfile_cl.sh
+Step 2: Place the bash “build_inputfile_cl.sh” script into the same file with the folder that contain the cardio files to be processed. In the bash script replace first_dir=”YourFileName/” so the script can locate the folder to be processed. Navigate in bash to the folder that has your bash script and Cardio96 data folder. To run in bash, plug in prompt ./build_inputfile_cl.sh
 The output file can be opened in Labchart or EFP analyzer software.
 
-Step 3: 
-
-To use in EFP analyzer software, copy  LabChartInput.txt to the “working directory” that was configured in step 3 of the installation instructions.  
+Step 3: To use in EFP analyzer software, copy  LabChartInput.txt to the “working directory” that was configured in step 3 of the installation instructions.  
 
 Step 4: Load EFP Analyzer program. 
 
