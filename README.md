@@ -69,5 +69,4 @@ Step 7: Choose a landmark (ex. tangent), and select the show beat, show landmark
 Step 8: You have the option to include, exclude, or keep undecided for each well. 
 
 
- 
-![image](https://github.com/user-attachments/assets/e90e93c7-8f14-4f0e-a469-2bf0b67b759c)
+
