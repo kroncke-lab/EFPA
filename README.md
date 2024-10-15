@@ -1,4 +1,4 @@
-# EFPA
+# EFPA Instructions 
 
 Download both R (4.4.1) and RStudio (2024.04.2+764)
 
