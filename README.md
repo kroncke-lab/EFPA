@@ -64,4 +64,23 @@ Step 7: Choose a landmark (ex. tangent), and select the show beat, show landmark
 Step 8: You have the option to include, exclude, or keep undecided for each well. 
 
 
+Additional EFP Feautures: 
+
+(1) Beat Rate, a measurement of the number of beats per unit of time that serves as a basic indicator of cardiac activity
+(2) Depolarization Time (DT), which indicates the time interval of the depolarization phase
+(3) T-Amplitude (T-amp), which quantifies the amplitude of the T wave to provide insights into repolarization wave features
+(4) Field Potential Duration Maximum (FPD max), essential parameter for evaluating repolarization and drug effects
+
+Potential Modifcations to Important Landmarks: 
+(1) T-Start, an adjustable start point for the repolarization phase
+(2) T-Peak, which allows precise marking of the T wave's peak for assessing T-amp and repolarization dynamics Baselines
+(3) QRS Start and End, editable landmarks for the depolarization phase crucial for defining DT and FPD
+
+
+
+
+
+
+
+
 
